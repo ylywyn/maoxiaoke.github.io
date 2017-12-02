@@ -14,6 +14,13 @@ abbr {text-decoration: none;}
 <li><a href="http://www.jstips.co/" target="_blank"><abbr title="每天提供一个JavaScript小tip">JS TIPS</abbr></a></li>
 <li><a href="http://javascript-puzzlers.herokuapp.com/" target="_blank"><abbr title="也许你并不太懂JavaScript">JavaScript Puzzlers!</abbr></a></li>
 <li><a href="https://jsperf.com/" target="_blank"><abbr title="js性能测试网站">js perf</abbr></a></li>
+<li><a href="http://ecma-international.org/ecma-262/5.1/" target="_blank">ES5 标准协议</a></li>
+<li><a href="http://yanhaijing.com/es5/#about" target="_blank">ES5 标准协议(中文译本)</a></li>
+<li><a href="http://www.ecma-international.org/ecma-262/6.0/" target="_blank">ES6 标准协议</a></li>
+<li><a href="http://kangax.github.io/compat-table/es6/" target="_blank">JavaScript 浏览器兼容性</a></li>
+<!--JSON验证-->
+<li><a href="https://jsonformatter.curiousconcept.com/" target="_blank">JSON Formatter &amp; Validator</a></li>
+<li><a href="http://jsoneditoronline.org/" target="_blank">JSON Editor Online</a></li>
 <!--js库-->
 <li><a href="https://threejs.org/" target="_blank">three.js</a></li>
 <li><a href="http://www.jq22.com/" target="_blank">jQuery 插件库</a></li>
@@ -40,12 +47,17 @@ abbr {text-decoration: none;}
 <hr><h4 class="btn btn-primary btn-lg">CSS/HTML相关</h4><hr>
 <ol class="rounded-list">
 <!--CSS/HTML API-->
+
+<li><a href="https://spec.whatwg.org/" target="_blank">WHATWG</a></li>
+<li><a href="https://www.w3.org/standards/webdesign/" target="_blank">W3C标准</a></li>
 <li><a href="https://www.w3.org/TR/tr-technology-stds" target="_blank">W3C标准协议</a></li>
+<li><a href="https://www.w3.org/TR/CSS22/" target="_blank">CSS 2.2</a></li>
 <li><a href="http://www.w3school.com.cn/index.html" target="_blank">W3school</a></li>
 <li><a href="https://tympanus.net/codrops/css_reference/" target="_blank">CSS reference</a></li>
 <li><a href="http://www.dcloud.io/docs/api/index.shtml" target="_blank">HTML5+ API Reference</a></li>
 <li><a href="http://cssreference.io/" target="_blank">cssreference.io</a></li>
 <li><a href="http://htmlreference.io/" target="_blank">htmlreference.io</a></li>
+<li><a href="http://screensiz.es/" target="_blank">Screen Siz.es</a></li>
 <li><a href="http://css.doyoe.com/" target="_blank">CSS 参考手册</a></li>
 <li><a href="https://isux.tencent.com/css3/index.html" target="_blank">CSS 动画手册</a></li>
 <!--CSS库/资源-->
@@ -71,6 +83,7 @@ abbr {text-decoration: none;}
 <ol class="rounded-list">
 <li><a href="http://xiaokedada.com/" target="_blank">小可嗒嗒的博客</a></li>
 <li><a href="http://ghmagical.com/" target="_blank">TG的博客</a></li>
+<li><a href="http://2ality.com/p/about.html" target="_blank">2ality</a></li>
 </ol>
 <hr><h4 class="btn btn-info btn-lg">各大公司的前端站点</h4><hr>
 <ol class="rectangle-list">
