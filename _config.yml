@@ -1,10 +1,10 @@
 # Site settings
-name: 小可嗒嗒的博客
-email: maoxiaoke@outlook.com
-author: M/J
+name: 熙博
+email: 389626533@qq.com
+author: yangl
 url: http://xiblog.win
 resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
+github: https://github.com/ylywyn/
 baseurl: ""  #根目录
 description: 假如生活欺骗了你，不要悲伤，不要哭泣。
 motto: 我们笑着说再见，却深知再见遥遥无期。
@@ -17,13 +17,13 @@ paginate: 8
 paginate_path: "page:num"
 gems: [jekyll-paginate]
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
-github_username: maoxiaoke
+github_username: ylywyn
 highlighter: rouge
 markdown: kramdown
 FB:
   comments :
     provider : disqus
     disqus :
-        short_name : xiaokedada
+        short_name : ylywyn
 
 theme: jekyll-theme-cayman
